@@ -2,7 +2,7 @@ package lab_02;
 
 import java.util.Scanner;
 
-public class lab_02_1 {
+public class Lab_02_1 {
     public static void main (String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -23,6 +23,5 @@ public class lab_02_1 {
         } else {
             System.out.println("Obesity");
         }
-
     }
 }
