@@ -16,7 +16,7 @@ public class Lab_03_1 {
                 oddNumber++;
             }
         }
-        System.out.println("The array: " + Arrays.toString(intArr));
+        System.out.println("In the array: " + Arrays.toString(intArr));
         System.out.println("Number of Even number is : " + evenNumber);
         System.out.println("Number of Odd number is : " + oddNumber);
     }
